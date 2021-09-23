@@ -45,3 +45,23 @@
 .coin-price {
   width: 110px;
 }
+
+.coin-volume {
+  width: 200px;
+}
+
+.coin-marketcap {
+  width: 240px;
+}
+
+.coin-percent {
+  width: 80px;
+}
+
+.red {
+  color: #f00606;
+}
+
+.green {
+  color: #11d811;
+}
