@@ -37,5 +37,3 @@ const Coin = ({
 };
 
 export default Coin;
-
-s;
